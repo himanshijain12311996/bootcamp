@@ -1,0 +1,4 @@
+features may be added in tripadvisor:
+1. It only book flights tickets for customers. it have to book bus tickets or provide some 4 wheeler vehicle on rent for customers.
+2.there is no option for roomsharing. 
+3.suggestion of flights/hotels based on user text entered on website
